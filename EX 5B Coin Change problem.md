@@ -22,8 +22,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 ## Program:
 ```
 Create a python function to compute the fewest number of coins that we need to make up the amount given.
-Developed by: MOHAMED MUFFASHAL K A
-Register Number:  212222220024
+Developed by: MOHAMED MUNTHASIR Y
+Register Number:  212222220025
 ```
 ```PY
 def count(S, n, target):
