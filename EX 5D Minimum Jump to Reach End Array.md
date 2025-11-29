@@ -15,8 +15,8 @@ To write a python program for finding the minimum number of jumps needed to reac
 
 ## Program:
 ```
-Developed by: MOHAMED MUFFASHAL K A
-Register Number:212222220024
+Developed by: MOHAMED MUNTHASIR Y
+Register Number:212222220025
 ```
 ```py
 def minJumps(arr, l, h):
